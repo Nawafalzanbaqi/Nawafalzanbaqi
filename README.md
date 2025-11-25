@@ -1,16 +1,24 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Nawaf 👋</h2>
 
-<!--
-**Nawafalzanbaqi/Nawafalzanbaqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+Self-taught developer focused on learning clearly and building clean, simple work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Daily Learning
+I update my learning progress every day.
+
+---
+
+## Skills
+- HTML / CSS / JS  
+- Python  
+- Git / GitHub  
+- APIs  
+- Automation (n8n)  
+
+---
+
+<p align="center"><sub>Clear • Simple • Consistent</sub></p>
