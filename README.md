@@ -3,19 +3,31 @@
 ---
 
 ## About Me
-Self-taught developer focused on learning clearly and building clean, simple work.
+Software development bootcamp student at Tuwaiq.  
+I focus on learning clearly, building clean small projects, and practicing Git daily.
 
 ---
 
 ## Daily Learning
-I update my learning progress every day.
+I update my learning log every day:  
+👉 [Daily Learning Log](https://github.com/Nawafalzanbaqi/Daily-Learning)
 
 ---
 
-## Skills
-- HTML / CSS / JS  
+## Git Practice Repositories
+These are the repos I use to practice Git:
+
+- [git-commands-practice](https://github.com/Nawafalzanbaqi/git-commands-practice)  
+- [git-branches-lab](https://github.com/Nawafalzanbaqi/git-branches-lab)  
+- [git-project-simulation](https://github.com/Nawafalzanbaqi/git-project-simulation)
+
+---
+
+## Skills (Growing)
+- Git & GitHub  
 - Python  
-- Git / GitHub    
+- JavaScript  
+- HTML & CSS  
 
 ---
 
