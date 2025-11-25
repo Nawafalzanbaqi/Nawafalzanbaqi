@@ -15,9 +15,7 @@ I update my learning progress every day.
 ## Skills
 - HTML / CSS / JS  
 - Python  
-- Git / GitHub  
-- APIs  
-- Automation (n8n)  
+- Git / GitHub    
 
 ---
 
