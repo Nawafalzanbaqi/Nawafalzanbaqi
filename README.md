@@ -17,8 +17,8 @@ I enjoy building small tools, practicing Git & GitHub, and improving my programm
 - Learn automation, back-end development, and cloud tools  
 
 ## 📫 Contact
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/nawaf-alzanbaqi  
+- Email: alzanbaqinawaf@gmail.com
 
 ## 📘 Learning Journey
 I practice coding daily and build small projects to improve step by step.  
