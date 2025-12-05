@@ -1,34 +1,25 @@
-<h2 align="center">Hi, I'm Nawaf 👋</h2>
+# 👋 Hi, I'm Nawaf Alzanbaqi
 
----
+## 👨‍💻 About Me
+I am a passionate learner interested in software development, automation, and problem-solving.  
+I enjoy building small tools, practicing Git & GitHub, and improving my programming skills every day.
 
-## About Me
-Software development bootcamp student at Tuwaiq.  
-I focus on learning clearly, building clean small projects.
-
----
-
-## Daily Learning
-I update my learning log every day:  
-👉 [Daily Learning Log](https://github.com/Nawafalzanbaqi/Daily-Learning)
-
----
-
-## Git Practice Repositories
-These are the repos I use to practice Git:
-
-- [git-commands-practice](https://github.com/Nawafalzanbaqi/git-commands-practice)  
-- [git-branches-lab](https://github.com/Nawafalzanbaqi/git-branches-lab)  
-- [git-project-simulation](https://github.com/Nawafalzanbaqi/git-project-simulation)
-
----
-
-## Skills (Growing)
+## 🚀 Skills
+- `Python`  
+- `JavaScript`  
+- `Bash`  
 - Git & GitHub  
-- Python  
-- JavaScript  
-- HTML & CSS  
+- Basic `Command Line` Scripting  
 
----
+## 🎯 Goals
+- Become a professional software developer  
+- Build real-world projects and improve my portfolio  
+- Learn automation, back-end development, and cloud tools  
 
-<p align="center"><sub>Clear • Simple • Consistent</sub></p>
+## 📫 Contact
+- GitHub: https://github.com/YOUR_USERNAME  
+- Email: your-email@example.com
+
+## 📘 Learning Journey
+I practice coding daily and build small projects to improve step by step.  
+Feel free to explore my repositories!
