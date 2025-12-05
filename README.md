@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💼 **About Me**
+##  **About Me**
 
 I am a motivated learner focused on software development, scripting, and automation.  
 I enjoy practicing Git & GitHub, building simple tools, and improving my skills step-by-step every day.
@@ -32,17 +32,17 @@ I enjoy practicing Git & GitHub, building simple tools, and improving my skills 
 
 ## 🎯 **Goals**
 
-- 🚀 Become a professional software developer  
-- 📦 Build real-world projects and improve my portfolio  
-- ⚙️ Learn automation, back-end development, and cloud tools  
+-  Become a professional software developer  
+-  Build real-world projects and improve my portfolio  
+-  Learn automation, back-end development, and cloud tools  
 
 ---
 
 ## 📬 **Contact**
 
-- 🌐 **Portfolio:** https://Nawafalzanbaqi.github.io  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/nawaf-alzanbaqi  
-- 📧 **Email:** alzanbaqinawaf@gmail.com  
+-  **Portfolio:** https://Nawafalzanbaqi.github.io  
+-  **LinkedIn:** https://www.linkedin.com/in/nawaf-alzanbaqi  
+-  **Email:** alzanbaqinawaf@gmail.com  
 
 ---
 
