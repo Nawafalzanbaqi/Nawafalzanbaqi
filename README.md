@@ -4,7 +4,7 @@
 
 ## About Me
 Software development bootcamp student at Tuwaiq.  
-I focus on learning clearly, building clean small projects, and practicing Git daily.
+I focus on learning clearly, building clean small projects.
 
 ---
 
