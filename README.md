@@ -52,16 +52,6 @@ I practice coding daily and build small projects to improve step by step.
 I enjoy experimenting with scripts, creating simple tools, and exploring GitHub workflows.  
 Feel free to explore my repositories!
 
----
-
-## 🏆 **GitHub Stats**
-
-> *(These automatically update based on your GitHub activity)*
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nawafalzanbaqi&show_icons=true&theme=github_dark" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawafalzanbaqi&layout=compact&theme=github_dark" />
-</p>
 
 ---
 
