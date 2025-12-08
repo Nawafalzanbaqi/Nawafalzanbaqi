@@ -87,13 +87,5 @@ Feel free to explore my repositories!
 
 ---
 
-## 🔥 **My GitHub Stats**
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nawafalzanbaqi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
-</div>
-
----
-
 ⭐ **Thanks for visiting my profile!**  
 Feel free to connect or check out my projects 🚀
