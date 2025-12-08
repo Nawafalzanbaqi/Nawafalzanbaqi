@@ -1,67 +1,97 @@
-# 👋 Hi, I'm **Nawaf Alzanbaqi**
-
-💻 *Software Developer — Passionate about automation, clean code, and building small tools that solve real problems.*
-
----
-
-##  **About Me**
-
-I am a motivated learner focused on software development, scripting, and automation.  
-I enjoy practicing Git & GitHub, building simple tools, and improving my skills step-by-step every day.
-
----
-
-## 🧰 **Skills**
-
-<p align="left">
+<div align="center">
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   
-  <img src="https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-green?logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Command%20Line-Basic-lightgrey?logo=windows-terminal&logoColor=black" />
-</p>
+  <h1>👋 Hi, I'm <b>Nawaf Alzanbaqi</b></h1>
+  <p><i>Software Developer — Passionate about automation, clean code, and building practical tools.</i></p>
+
+  <!-- Social Badges -->
+  <div>
+    <a href="https://www.linkedin.com/in/nawaf-alzanbaqi">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    </a>
+    <a href="https://Nawafalzanbaqi.github.io">
+      <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="25" />
+    </a>
+    <a href="mailto:alzanbaqinawaf@gmail.com">
+      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+    </a>
+  </div>
+
+  <br>
+
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nawafalzanbaqi.Nawafalzanbaqi" />
+</div>
+
+---
+
+## 🧑‍💻 **About Me**
+
+I’m a motivated learner focused on **software development, scripting, and automation**.  
+I enjoy working with Git & GitHub, building small useful tools, and improving my programming abilities day by day.
+
+- 🔭 Currently improving: Back-end skills & automation  
+- 📚 Learning: Python, JavaScript, Linux, Git workflows  
+- ⚡ Free time: Build small tools, explore automations, and experiment with new ideas  
+
+---
+
+## 🛠️ Skills & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
+</div>
+
 
 
 ---
 
 ## 🎯 **Goals**
 
--  Become a professional software developer  
--  Build real-world projects and improve my portfolio  
--  Learn automation, back-end development, and cloud tools  
-
----
-
-## 📬 **Contact**
-
--  **Portfolio:** https://Nawafalzanbaqi.github.io  
--  **LinkedIn:** https://www.linkedin.com/in/nawaf-alzanbaqi  
--  **Email:** alzanbaqinawaf@gmail.com  
+- Become a professional software developer  
+- Build real-world projects and grow my portfolio  
+- Learn automation, back-end development, and cloud tools  
 
 ---
 
 ## 📘 **Learning Journey**
 
-I practice coding daily and build small projects to improve step by step.  
-I enjoy experimenting with scripts, creating simple tools, and exploring GitHub workflows.  
+I practice coding daily and build small projects to grow step by step.  
+I love experimenting with scripts, simple tools, and GitHub workflows.  
 Feel free to explore my repositories!
-
 
 ---
 
 ## 💼 **Highlights**
 
-✔ Passionate about learning
-✔ Consistent GitHub activity
-✔ Enjoy building small tools and scripts
-✔ Strong focus on improving problem-solving skills
+✔ Passionate about learning  
+✔ Consistent GitHub activity  
+✔ Enjoy building small tools and scripts  
+✔ Strong focus on problem-solving  
 
+---
+
+## 🔥 **My GitHub Stats**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nawafalzanbaqi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
+</div>
 
 ---
 
