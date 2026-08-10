@@ -5,6 +5,7 @@
 <div>
 <a href="https://www.linkedin.com/in/nawaf-alzanbaqi"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
 <a href="https://nawaf-alzanbaqi.dev"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="25" /></a>
+<a href="https://xlmgnnziymsryakgilet.supabase.co/storage/v1/object/public/media/uploads/1784069168069-2tf0ji.pdf"><img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=8B0000&logoColor=white&style=for-the-badge" height="25" /></a>
 <a href="mailto:alzanbaqinawaf@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" /></a>
 </div>
 <br>
@@ -33,6 +34,15 @@ Full-stack developer building web platforms end to end — frontend, backend, da
 | 🖼️ **Image Compressor** — batch GUI tool (Arabic UI) | Python, Tkinter | [Code](https://github.com/Nawafalzanbaqi/image-compressor-gui) |
 
 More on my portfolio → **[nawaf-alzanbaqi.dev](https://nawaf-alzanbaqi.dev)**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nawafalzanbaqi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawafalzanbaqi&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
 
 ---
 
