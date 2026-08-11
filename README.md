@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-Full-stack developer building web platforms end to end — frontend, backend, databases, and infrastructure. Tuwaiq Academy Software Development Bootcamp graduate, backed by **7 CompTIA certifications** (Security+, Network+, Cloud+, Server+ and more), so every line I ship is built on a deep understanding of the stack beneath it.
+Full-stack developer building web platforms end to end — frontend, backend, databases, and infrastructure. **Tuwaiq Academy** Software Development Bootcamp graduate, backed by **7 CompTIA certifications** (Security+, Network+, Cloud+, Server+ and more), so every line I ship is built on a deep understanding of the stack beneath it.
 
 - 🚀 Shipping: production client platforms (Next.js, ASP.NET Core, FastAPI)
 - 🔐 Focus: secure, scalable architecture — Clean Architecture, JWT, Docker
@@ -30,9 +30,9 @@ Full-stack developer building web platforms end to end — frontend, backend, da
 |---|---|---|
 | 🏥 **MediCare Plus** — bilingual medical platform | Next.js 16, Sanity, Tailwind 4 | [Code](https://github.com/Nawafalzanbaqi/medicare-plus-demo) · [Live](https://medicare-plus-demo.vercel.app) |
 | ⛵ **Bahrni** — Uber-style marine boat booking | ASP.NET Core MVC, EF Core 8 | [Code](https://github.com/Nawafalzanbaqi/Bahrni) |
+| 🏭 **DevForge** — self-hosted AI software factory (IDP) | .NET 9, Clean Architecture, Next.js 15 | [Code](https://github.com/Nawafalzanbaqi/devforge) |
 | 📇 **Taif CRM** — Arabic-first CRM + demo-site generator | FastAPI, SQLModel | [Code](https://github.com/Nawafalzanbaqi/taif-crm) |
-| 🏭 **Software Factory** — multi-app delivery monorepo | .NET 9, Next.js | [Code](https://github.com/Nawafalzanbaqi/software-factory) |
-| 🤖 **MediaHub** — Telegram media bot | Python, FastAPI | [Code](https://github.com/Nawafalzanbaqi/bot-tele) |
+| 🏰 **Software Factory** — multi-app delivery monorepo | .NET 9, Next.js | [Code](https://github.com/Nawafalzanbaqi/software-factory) |
 | 📚 **LMS** — learning management system | NestJS, React, SQL Server | [Code](https://github.com/Nawafalzanbaqi/lms-nestjs) |
 
 More on my portfolio → **[nawaf-alzanbaqi.dev](https://nawaf-alzanbaqi.dev)**
@@ -43,7 +43,7 @@ More on my portfolio → **[nawaf-alzanbaqi.dev](https://nawaf-alzanbaqi.dev)**
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/Nawafalzanbaqi?style=for-the-badge&logo=github&label=Followers&color=181717" height="28" />
-<img src="https://img.shields.io/badge/Repos-34-2ea44f?style=for-the-badge&logo=github&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Repos-30%2B-2ea44f?style=for-the-badge&logo=github&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/CompTIA-7%C3%97%20Certified-c8202f?style=for-the-badge" height="28" />
 <br><br>
 <img src="https://ghchart.rshah.org/26a641/Nawafalzanbaqi" alt="Contribution graph" width="92%" />
@@ -81,10 +81,10 @@ More on my portfolio → **[nawaf-alzanbaqi.dev](https://nawaf-alzanbaqi.dev)**
 
 ## 💼 Highlights
 
+✔ Tuwaiq Academy — Software Development Bootcamp graduate
 ✔ 7× CompTIA certified — Security+, Network+, Cloud+, Server+, CNIP, CCAP, CSCP
-✔ Tuwaiq Academy Software Development Bootcamp graduate
 ✔ Production platforms shipped for real clients (medical, solar energy, ERP)
-✔ 25+ repositories — from SaaS platforms to Raspberry Pi automation
+✔ From SaaS platforms to Raspberry Pi automation & security tooling
 
 ---
 
